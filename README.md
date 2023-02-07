@@ -1,6 +1,6 @@
 # Guia de Uso da Tela de Login em HTML, CSS e CodePen
 
-Este guia tem como objetivo fornecer uma visão geral sobre a construção de uma tela de login utilizando HTML, CSS e CodePen.
+Este guia tem como objetivo fornecer uma visão geral sobre a construção de uma tela de login utilizando HTML, CSS e CodePen na qual você encontra um modelo desenvolvido por lá em (https://github.com/MagdielPaulo/telalogin)
 
 ### **O que é CodePen?**
 
